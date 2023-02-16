@@ -15,7 +15,7 @@
 13,Australia,AUS
 14,Austria,AUT
 15,Azerbaijan,AZE
-"16,""Bahamas, The"",BHS"
+16,"Bahamas, The",BHS
 17,Bahrain,BHR
 18,Bangladesh,BGD
 19,Barbados,BRB
@@ -48,8 +48,8 @@
 46,China,CHN
 47,Colombia,COL
 48,Comoros,COM
-"49,""Congo, Dem. Rep."",COD"
-"50,""Congo, Rep."",COG"
+49,"Congo, Dem. Rep.",COD
+50,"Congo, Rep.",COG
 51,Costa Rica,CRI
 52,Cote d'Ivoire,CIV
 53,Croatia,HRV
@@ -66,7 +66,7 @@
 64,East Asia & Pacific (excluding high income),EAP
 65,East Asia & Pacific (IDA & IBRD countries),TEA
 66,Ecuador,ECU
-"67,""Egypt, Arab Rep."",EGY"
+67,"Egypt, Arab Rep.",EGY
 68,El Salvador,SLV
 69,Equatorial Guinea,GNQ
 70,Eritrea,ERI
@@ -85,7 +85,7 @@
 83,France,FRA
 84,French Polynesia,PYF
 85,Gabon,GAB
-"86,""Gambia, The"",GMB"
+86,"Gambia, The",GMB
 87,Georgia,GEO
 88,Germany,DEU
 89,Ghana,GHA
@@ -102,7 +102,7 @@
 100,Heavily indebted poor countries (HIPC),HPC
 101,High income,HIC
 102,Honduras,HND
-"103,""Hong Kong SAR, China"",HKG"
+103,"Hong Kong SAR, China",HKG
 104,Hungary,HUN
 105,IBRD only,IBD
 106,Iceland,ISL
@@ -112,7 +112,7 @@
 110,IDA total,IDA
 111,India,IND
 112,Indonesia,IDN
-"113,""Iran, Islamic Rep."",IRN"
+113,"Iran, Islamic Rep.",IRN
 114,Iraq,IRQ
 115,Ireland,IRL
 116,Isle of Man,IMN
@@ -124,8 +124,8 @@
 122,Kazakhstan,KAZ
 123,Kenya,KEN
 124,Kiribati,KIR
-"125,""Korea, Dem. People's Rep."",PRK"
-"126,""Korea, Rep."",KOR"
+125,"Korea, Dem. People's Rep.",PRK
+126,"Korea, Rep.",KOR
 127,Kosovo,XKX
 128,Kuwait,KWT
 129,Kyrgyz Republic,KGZ
@@ -146,7 +146,7 @@
 144,Low income,LIC
 145,Lower middle income,LMC
 146,Luxembourg,LUX
-"147,""Macao SAR, China"",MAC"
+147,"Macao SAR, China",MAC
 148,Madagascar,MDG
 149,Malawi,MWI
 150,Malaysia,MYS
@@ -157,7 +157,7 @@
 155,Mauritania,MRT
 156,Mauritius,MUS
 157,Mexico,MEX
-"158,""Micronesia, Fed. Sts."",FSM"
+158,"Micronesia, Fed. Sts.",FSM
 159,Middle East & North Africa,MEA
 160,Middle East & North Africa (excluding high income),MNA
 161,Middle East & North Africa (IDA & IBRD countries),TMN
@@ -257,11 +257,11 @@
 255,Uruguay,URY
 256,Uzbekistan,UZB
 257,Vanuatu,VUT
-"258,""Venezuela, RB"",VEN"
+258,"Venezuela, RB",VEN
 259,Vietnam,VNM
 260,Virgin Islands (U.S.),VIR
 261,West Bank and Gaza,PSE
 262,World,WLD
-"263,""Yemen, Rep."",YEM"
+263,"Yemen, Rep.",YEM
 264,Zambia,ZMB
 265,Zimbabwe,ZWE
