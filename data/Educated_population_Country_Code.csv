@@ -13,7 +13,7 @@
 11,Australia,AUS
 12,Austria,AUT
 13,Azerbaijan,AZE
-14,"Bahamas, The",BHS
+"14,""Bahamas, The"",BHS"
 15,Bahrain,BHR
 16,Bangladesh,BGD
 17,Barbados,BRB
@@ -46,8 +46,8 @@
 44,China,CHN
 45,Colombia,COL
 46,Comoros,COM
-47,"Congo, Dem. Rep.",COD
-48,"Congo, Rep.",COG
+"47,""Congo, Dem. Rep."",COD"
+"48,""Congo, Rep."",COG"
 49,Costa Rica,CRI
 50,Cote d'Ivoire,CIV
 51,Croatia,HRV
@@ -64,7 +64,7 @@
 62,East Asia & Pacific (excluding high income),EAP
 63,East Asia & Pacific (IDA & IBRD countries),TEA
 64,Ecuador,ECU
-65,"Egypt, Arab Rep.",EGY
+"65,""Egypt, Arab Rep."",EGY"
 66,El Salvador,SLV
 67,Equatorial Guinea,GNQ
 68,Eritrea,ERI
@@ -83,7 +83,7 @@
 81,France,FRA
 82,French Polynesia,PYF
 83,Gabon,GAB
-84,"Gambia, The",GMB
+"84,""Gambia, The"",GMB"
 85,Georgia,GEO
 86,Germany,DEU
 87,Ghana,GHA
@@ -101,7 +101,7 @@
 99,Heavily indebted poor countries (HIPC),HPC
 100,High income,HIC
 101,Honduras,HND
-102,"Hong Kong SAR, China",HKG
+"102,""Hong Kong SAR, China"",HKG"
 103,Hungary,HUN
 104,IBRD only,IBD
 105,Iceland,ISL
@@ -111,7 +111,7 @@
 109,IDA total,IDA
 110,India,IND
 111,Indonesia,IDN
-112,"Iran, Islamic Rep.",IRN
+"112,""Iran, Islamic Rep."",IRN"
 113,Iraq,IRQ
 114,Ireland,IRL
 115,Isle of Man,IMN
@@ -123,8 +123,8 @@
 121,Kazakhstan,KAZ
 122,Kenya,KEN
 123,Kiribati,KIR
-124,"Korea, Dem. Peoples Rep.",PRK
-125,"Korea, Rep.",KOR
+"124,""Korea, Dem. Peoples Rep."",PRK"
+"125,""Korea, Rep."",KOR"
 126,Kosovo,XKX
 127,Kuwait,KWT
 128,Kyrgyz Republic,KGZ
@@ -146,7 +146,7 @@
 144,Low income,LIC
 145,Lower middle income,LMC
 146,Luxembourg,LUX
-147,"Macao SAR, China",MAC
+"147,""Macao SAR, China"",MAC"
 148,Madagascar,MDG
 149,Malawi,MWI
 150,Malaysia,MYS
@@ -158,7 +158,7 @@
 156,Mauritius,MUS
 157,Mayotte,MYT
 158,Mexico,MEX
-159,"Micronesia, Fed. Sts.",FSM
+"159,""Micronesia, Fed. Sts."",FSM"
 160,Middle East & North Africa,MEA
 161,Middle East & North Africa (excluding high income),MNA
 162,Middle East & North Africa (IDA & IBRD countries),TMN
@@ -259,16 +259,11 @@
 257,Uruguay,URY
 258,Uzbekistan,UZB
 259,Vanuatu,VUT
-260,"Venezuela, RB",VEN
+"260,""Venezuela, RB"",VEN"
 261,Vietnam,VNM
 262,Virgin Islands (U.S.),VIR
 263,West Bank and Gaza,PSE
 264,World,WLD
-265,"Yemen, Rep.",YEM
+"265,""Yemen, Rep."",YEM"
 266,Zambia,ZMB
 267,Zimbabwe,ZWE
-268,,
-269,,
-270,,
-271,Data from database: Education Statistics - All Indicators,
-272,Last Updated: 12/20/2020,
