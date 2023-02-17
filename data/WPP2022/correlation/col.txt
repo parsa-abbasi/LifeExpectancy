@@ -1,3 +1,5 @@
+Region, subregion, country or area *
+Year
 Births (thousands)
 Population Density, as of 1 July (persons per square km)
 Population Sex Ratio, as of 1 July (males per 100 females)
